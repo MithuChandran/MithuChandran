@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Mithuna Chandrasekaran</h1>
 <h3 align="center">Empowering World's Tech Landscape with Passion-Fueled Code Innovations.</h3>
 
-<p align="left"> <img src="https://mithuna.netlify.app/static/media/hero.249688551dbd2e2a4a90047e2bf78ba6.svg" alt="Mithuna" /> </p>
-
 - 🌱 I’m currently learning **ML, JAVA and Python**
 
 - 💬 Ask me about **Tech**
